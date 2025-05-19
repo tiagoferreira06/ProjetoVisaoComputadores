@@ -27,7 +27,7 @@ Este projeto foi desenvolvido como trabalho prático para a disciplina de Visão
 - `Source.cpp`: Arquivo principal contendo o ponto de entrada da aplicação
 - `coin_utils.c`: Utilitários para manipulação de moedas e métricas
 - `coin_detector.c`: Implementação dos algoritmos de detecção de moedas
-- - `vc.c`: Funções realizadas nas aulas.
+- `vc.c`: Funções realizadas nas aulas.
 
 ## 🧠 Técnicas Implementadas
 - 🎨 Segmentação por tonalidade e brilho
