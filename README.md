@@ -1,7 +1,7 @@
 # 🔍 Projeto de Visão por Computador: Detecção e Quantificação de Moedas 💰
 
 ## 📝 Descrição
-Este projeto foi desenvolvido como trabalho prático para a disciplina de Visão por Computador do curso de Engenharia de Sistemas Informáticos do Instituto Politécnico do Cávado e do Ave (IPCA), ano letivo 2024/2025. O sistema é capaz de identificar e quantificar moedas em vídeos, determinando a quantidade e o valor monetário total.
+Este projeto foi desenvolvido como trabalho prático para a disciplina de Visão de Computadores do curso de Engenharia de Sistemas Informáticos do Instituto Politécnico do Cávado e do Ave (IPCA), ano letivo 2024/2025. O sistema é capaz de identificar e quantificar moedas em vídeos, determinando a quantidade e o valor monetário total.
 
 ## 👨‍💻 Autor
 - **Tiago Nunes Ferreira**
@@ -25,8 +25,9 @@ Este projeto foi desenvolvido como trabalho prático para a disciplina de Visão
 
 ## 📂 Estrutura do Projeto
 - `Source.cpp`: Arquivo principal contendo o ponto de entrada da aplicação
-- `coin_utils.h`: Utilitários para manipulação de moedas e métricas
-- `coin_detector.h`: Implementação dos algoritmos de detecção e classificação de moedas
+- `coin_utils.c`: Utilitários para manipulação de moedas e métricas
+- `coin_detector.c`: Implementação dos algoritmos de detecção de moedas
+- - `vc.c`: Funções realizadas nas aulas.
 
 ## 🧠 Técnicas Implementadas
 - 🎨 Segmentação por tonalidade e brilho
